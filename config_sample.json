@@ -1,0 +1,6 @@
+{
+	"accounts": ["PRIVATEKEY_0", "PRIVATEKEY_1"],
+	"defaultAccount": 0,
+	"infurakey": "YOUR INFURA APIKEY",
+	"network": "ropsten"
+}
